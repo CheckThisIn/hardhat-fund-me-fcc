@@ -6,7 +6,7 @@ This is a section of the Javascript Blockchain/Smart Contract FreeCodeCamp Cours
 
 [Full Repo](https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
 
-- [Hardhat Fund Me](#hardhat-fund-me)
+- [Hardhat Fund Me](#hardhat-fund-me) 
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
