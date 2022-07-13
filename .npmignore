@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hardhat.config.js
 scripts
 test
 _bugfix_yarn.js
+=======
+hardhat.config.js
+scripts 
+test
+>>>>>>> origin/main
